@@ -1,0 +1,25 @@
+
+/* Generic Signature Changes */
+
+/* RawRepresentable Changes */
+
+/* Removed Decls */
+Constructor GeoLineSegment.init(_:_:) has been removed
+
+/* Moved Decls */
+
+/* Renamed Decls */
+
+/* Type Changes */
+
+/* Decl Attribute changes */
+
+/* Fixed-layout Type Changes */
+
+/* Protocol Conformance Change */
+
+/* Protocol Requirement Change */
+
+/* Class Inheritance Change */
+
+/* Others */
